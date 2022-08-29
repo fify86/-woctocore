@@ -1,0 +1,4 @@
+  vscode
+ .target
+ .DS.store
+  node.module
