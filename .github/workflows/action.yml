@@ -32,6 +32,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: 
-            ./ssh keygen --full_format-id -fify86=fifyrafina86@yahoo.com
+           git clone http://fify86.github.io/octocab/git
           
               
