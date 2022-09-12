@@ -32,8 +32,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run:
-            wsl.exe apt --install -d faraday-retry -gem
-            set git config --global --add safe.directory /home/runner/work/octocab/octocab  
+            wsl apt --install -d faraday-retry gem
+             
           
           
               
